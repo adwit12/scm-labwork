@@ -1,0 +1,3 @@
+hello everyone
+how are you all
+this is just me doing random bs in scm lab
